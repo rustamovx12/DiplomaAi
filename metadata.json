@@ -1,0 +1,6 @@
+{
+  "name": "DiplomaAI",
+  "description": "Aqlli Diplom, Sertifikat va Tashakkurnoma Yaratuvchi. Zamonaviy dizaynlar, elektron imzo va yuklab olish imkoniyati.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
